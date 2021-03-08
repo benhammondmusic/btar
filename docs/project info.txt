@@ -1,0 +1,23 @@
+www.nime.org 2003
+andy hunt “midigrid”
+sergi jorda
+
+---------------------
+
+[10] "Music Therapy and Electronic Technology", Andy Hunt,
+Ross Kirk, Mary Abbotson and Raymond Abbotson, Proc.
+EuroMicro Conference 2000, vol II, pp 362-367,
+Maastricht, September 2000.
+
+[9] "Technology in the service of Music Therapy'', M & R.
+Abbotson, PR Kirk & AD Hunt, World Congress of Music
+Therapy. July 1993
+
+[22] Ansdell, G. ”Music for Life – Aspects of Creative Music
+Therapy with adult clients”, London 1995, ISBN 1-853-
+02299-3.
+
+[24] Ellis, P. (1997) ‘The Music of Sound: a new approach for
+children with severe and profound and multiple learning
+difficulties’ (British Journal of Music Education, vol.14,
+no.2) 4.

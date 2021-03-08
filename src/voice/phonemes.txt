@@ -1,0 +1,70 @@
+VOWELS
+front:
+IY - beet
+I - bit
+E - bet
+AE - bat
+
+Mid:
+A - hat
+ER - bird
+UH - but
+OW - bought
+
+Back:
+OO - boot
+U - foot
+O - beau
+
+SEMI VOWELS
+W - well
+L - look
+R - red
+Y - yet
+
+DIPTHONGS
+AI - pie
+OI - boy
+AU - how
+EI - may
+OU - boot
+JU - few
+
+CONSONANTS
+NASALS
+M - met
+N - net
+NG - song
+
+STOPS
+B - bit
+D - dog
+G - get
+
+UNVOICED
+P - pet
+T - top
+K - kit
+
+FRICATIVES
+VOICED
+V - vat
+TH - that
+Z - zoo
+ZH - asia
+
+UNIVOICED
+F - foot
+THE - thistle
+S - sell
+SH - shed
+
+AFFRICATES
+VOICED
+DZH - age
+
+UNVOICED
+TSH - chuck
+
+WHISPER
+H - hat

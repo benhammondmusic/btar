@@ -1,0 +1,17 @@
+max v2;
+#N vpatcher 15 55 615 455;
+#P user meter~ 175 209 255 222 100 0 168 0 103 103 103 255 153 0 255 0 0 217 217 0 153 186 0 12 3 3 3 3;
+#P toggle 123 77 15 0;
+#P outlet 142 209 15 0;
+#P window setfont "Sans Serif" 9.;
+#P newex 142 131 30 9109513 gate~;
+#P user ezadc~ 162 75 206 108 0;
+#P inlet 123 46 15 0;
+#P comment 398 147 100 9109513 passes mic signal straight in for processing;
+#P comment 69 270 100 9109513 Benjamin Hammond BTAR 3000;
+#P connect 2 0 6 0;
+#P fasten 2 0 4 0 128 115 147 115;
+#P connect 4 0 5 0;
+#P connect 3 0 4 1;
+#P connect 4 0 7 0;
+#P pop;

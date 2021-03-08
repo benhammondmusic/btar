@@ -1,6 +1,8 @@
 # BTAR 3000 - More Than Just A Keyboard
 
-_Created: 2005. Last Updated: March 8th, 2021. Another timewaster from [BenHammond.tech]_
+![Poorly photoshopped image of Ben's face atop a generic rockstar, with a computer keyboard instead of the original guitar](./images/ben_btar.jpg)
+
+_Created: 2005. Last Updated: March 8th, 2021. Another timewaster from [BenHammond.tech](http://benhammond.tech)_
 
 Originally conceived as an interface for a "band-in-box" type project in 2003, the BTAR has since grown into a midi controller, synthesizer, drum machine, multi-effects pedalboard, digital bass guitar with "flick" add-on, mic to MIDI converter, and all kinds of hybrid combinations. Central to the design is the idea that the average user can download a simple program for free to their home or classroom computer and access the majority of the functionality, enabling them to create music and improvise at any time.
 
@@ -16,6 +18,9 @@ There are really no installation requirements for the BTAR, simply double-click 
 - (Optional) Microphone, either external or built in. HINT: you can plug headphones into the microphone jack and talk/sing into the left earphone.
 - (Optional) USB Flick. You probably don’t have one of these.
 
+![BTAR Synth GUI](./images/btar-synth.gif)
+![BTAR GUI](./images/btar-interface.gif)
+
 ## II. BTAR Setup
 
 The BTAR 3000 is designed to be easy to play right out of the “box”. There are multiple preset modes available, simply press the numbers “1” through “9” to enter a preset mode. To hold the BTAR, place the bottom of the computer keyboard flat against your stomach, with the fingers of your left hand laid on the function keys, and your palm of that hand supporting the weight of the top, directly opposite the “Q”.
@@ -23,6 +28,8 @@ The BTAR 3000 is designed to be easy to play right out of the “box”. There a
 Your right hand will control functionality and / or drums. For drum playing, lay your right thumb on the right hand keyboard’s “0” key (bass drum), index finger on “4” (hihat), and pinky on “+” (snare).
 
 You can tie a string from the little leg things that help the keyboard angle and use it as a guitar strap to aid in rocking out.
+
+![Photo of Ben holding computer keyboard as BTAR](./images/btar_keyboardcontrols.jpg)
 
 ## III. BTAR Basic Playing Technique
 
@@ -57,6 +64,9 @@ You can tie a string from the little leg things that help the keyboard angle and
 
 - PAGE Up / DOWN cycle up and down through the MIDI voices.
 
+![Detailed diagram of keyboard functionality](./images/keyboard_labeled.gif)
+![Virtual Electric Guitar Style Effects Pedalboard](./images/btar-pedalboard.gif)
+
 ## IV. BTAR Advanced
 
 Advanced functionally in the BTAR 3000 includes:
@@ -67,6 +77,10 @@ Advanced functionally in the BTAR 3000 includes:
 - “MIC TIMBRE PITCH DETECTION” mode, which is the front part of the ALIVE mode, described above.
 - Midi note hang trick. Holding down sustained midi note (like strings for example), shift the octave without releasing the key, and then release, notice how the sustained note will continue holding. The trick can be continuously used to create large synth pads, and can be muted by hitting the <spacebar>.
 
+![Game controller converted into a FLICK controller](./images/btar-flick.jpg)
+
 ## V. BTAR Open Source
 
 If you have created anything you value using the BTAR, please send it my way and I’ll feature it on the website. I retain rights to the idea of instrument in its current form, but the music is and always will be yours. If you are interested in contributing to the BTAR project, the source .txt files (editable in MAX/MSP are available for your use. Please email me with any questions or contributions.
+
+![Sketch of integrating further sensors](./images/sensor_placement_btar-b3.jpg)
