@@ -25,7 +25,7 @@ There are really no installation requirements for the BTAR, simply double-click 
 
 The BTAR 3000 is designed to be easy to play right out of the “box”. There are multiple preset modes available, simply press the numbers “1” through “9” to enter a preset mode. To hold the BTAR, place the bottom of the computer keyboard flat against your stomach, with the fingers of your left hand laid on the function keys, and your palm of that hand supporting the weight of the top, directly opposite the “Q”.
 
-Your right hand will control functionality and / or drums. For drum playing, lay your right thumb on the right hand keyboard’s “0” key (bass drum), index finger on “4” (hihat), and pinky on “+” (snare).
+Your right hand will control functionality and / or drums. For drum playing, lay your right thumb on the right hand keyboard’s “0” key (bass drum), index finger on “4” (hi hat), and pinky on “+” (snare).
 
 You can tie a string from the little leg things that help the keyboard angle and use it as a guitar strap to aid in rocking out.
 
@@ -56,7 +56,7 @@ You can tie a string from the little leg things that help the keyboard angle and
 
 - The TAB key toggles the MICROPHONE SIGNAL IN mode.
 
-- The ~ key toggles the STACK mode in the delay pedal. When on, new synth sounds are stacked, or will continue looping. When off, you can play over prelooped sounds without adding to the looping sound.
+- The ~ key toggles the STACK mode in the delay pedal. When on, new synth sounds are stacked, or will continue looping. When off, you can play over pre-looped sounds without adding to the looping sound.
 
 - INS and DEL cycle up and down through the EFFECTS PEDAL presets.
 
@@ -71,8 +71,8 @@ You can tie a string from the little leg things that help the keyboard angle and
 
 Advanced functionally in the BTAR 3000 includes:
 
-- “ALIVE” mode (#2), in which sound received by the micronphone is analyzed in terms of timbre and pitch, and then the BTAR creates more sound based on the information, which is in turn analyzed, creating a feedback loop that is sure to entertain.
-- “LOOP” mode (#8), in which synth sounds are constantly looped, giving you almost unlimited sonic opportunities. Try experiementing with the MIC SIGNAL IN and MIC TIMBRE PITCH modes while looping. Also, try looping a pattern, turning stack off so that what you play is not looped, and then double clicking on the pedal board and turning on the overdrive pedal, and then soloing over your loop.
+- “ALIVE” mode (#2), in which sound received by the microphone is analyzed in terms of timbre and pitch, and then the BTAR creates more sound based on the information, which is in turn analyzed, creating a feedback loop that is sure to entertain.
+- “LOOP” mode (#8), in which synth sounds are constantly looped, giving you almost unlimited sonic opportunities. Try experimenting with the MIC SIGNAL IN and MIC TIMBRE PITCH modes while looping. Also, try looping a pattern, turning stack off so that what you play is not looped, and then double clicking on the pedal board and turning on the overdrive pedal, and then soloing over your loop.
 - “MIC SIGNAL IN” mode, in which sounds picked up by your microphone enter the SYNTH VOICE chain, thereby being affected by t he pedal board settings.
 - “MIC TIMBRE PITCH DETECTION” mode, which is the front part of the ALIVE mode, described above.
 - Midi note hang trick. Holding down sustained midi note (like strings for example), shift the octave without releasing the key, and then release, notice how the sustained note will continue holding. The trick can be continuously used to create large synth pads, and can be muted by hitting the <spacebar>.
